@@ -1,1 +1,1 @@
-Source code for ** Applied Machine Learning in Python of Michigan University ** on Coursera
+Source code for **Applied Machine Learning in Python of Michigan University** on Coursera
